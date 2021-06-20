@@ -1,0 +1,7 @@
+Engine/.vs/*
+Engine/Engine/x64/*
+*.user
+Engine/x64/*
+Engine/images/*
+Engine/Engine/Assets/*
+Engine/Engine/Bin/*

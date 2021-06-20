@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers sources\Resources">
+      <UniqueIdentifier>{f75fbd60-08cc-4d16-a3c2-13d67793c64c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Resources">
+      <UniqueIdentifier>{e4e485da-4b90-4a55-b160-e167cbf52e90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Physics">
+      <UniqueIdentifier>{e8d32d4e-30be-42f9-92b0-7190b1b4c949}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Core">
+      <UniqueIdentifier>{7de99cbc-9e26-483c-a7fa-73d765effede}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\LowRenderer">
+      <UniqueIdentifier>{0db3564c-55dd-4275-8ef2-726cf4145e04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Physics">
+      <UniqueIdentifier>{94ea6ace-0577-4fa6-aa25-a11d6a3463dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\LowRenderer">
+      <UniqueIdentifier>{70876903-7d48-475a-8366-b2dd0f720eef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Core">
+      <UniqueIdentifier>{573bd0e5-50ec-44cd-8139-633963f20de2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\App">
+      <UniqueIdentifier>{ab226eaa-35ce-40c0-bb59-2e35e0c046c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\App">
+      <UniqueIdentifier>{a7006838-e00b-4722-90c8-1b56b082dfaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\third_party">
+      <UniqueIdentifier>{e839add6-6bb8-465c-ba54-8906c32c9536}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\third_party">
+      <UniqueIdentifier>{90122d24-8fab-490d-a8c9-c2b73d46406f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Core\Core.cpp">
+      <Filter>Fichiers sources\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Resources\ResourcesManager.cpp">
+      <Filter>Fichiers sources\Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Resources\Scene.cpp">
+      <Filter>Fichiers sources\Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Resources\Shader.cpp">
+      <Filter>Fichiers sources\Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Resources\Texture.cpp">
+      <Filter>Fichiers sources\Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Core\Log.cpp">
+      <Filter>Fichiers sources\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Core\Assertion.cpp">
+      <Filter>Fichiers sources\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Core\Graph.cpp">
+      <Filter>Fichiers sources\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Physics\Transform.cpp">
+      <Filter>Fichiers sources\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\LowRenderer\Camera.cpp">
+      <Filter>Fichiers sources\LowRenderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\LowRenderer\Light.cpp">
+      <Filter>Fichiers sources\LowRenderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Application\Application.cpp">
+      <Filter>Fichiers sources\App</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\LowRenderer\Model.cpp">
+      <Filter>Fichiers sources\LowRenderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Resources\Mesh.cpp">
+      <Filter>Fichiers sources\Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\glad.c">
+      <Filter>Fichiers sources\third_party</Filter>
+    </ClCompile>
+    <ClCompile Include="Header\imgui\imgui_impl_glfw.cpp">
+      <Filter>Fichiers sources\third_party</Filter>
+    </ClCompile>
+    <ClCompile Include="Header\imgui\imgui_impl_opengl3.cpp">
+      <Filter>Fichiers sources\third_party</Filter>
+    </ClCompile>
+    <ClCompile Include="Header\imgui\imgui_widgets.cpp">
+      <Filter>Fichiers sources\third_party</Filter>
+    </ClCompile>
+    <ClCompile Include="Header\imgui\imgui.cpp">
+      <Filter>Fichiers sources\third_party</Filter>
+    </ClCompile>
+    <ClCompile Include="Header\imgui\imgui_demo.cpp">
+      <Filter>Fichiers sources\third_party</Filter>
+    </ClCompile>
+    <ClCompile Include="Header\imgui\imgui_draw.cpp">
+      <Filter>Fichiers sources\third_party</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include\Core\Core.hpp">
+      <Filter>Fichiers d%27en-tête\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Physics\Physics.hpp">
+      <Filter>Fichiers d%27en-tête\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Resources\Texture.hpp">
+      <Filter>Fichiers d%27en-tête\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Resources\ResourcesManager.hpp">
+      <Filter>Fichiers d%27en-tête\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Resources\Scene.hpp">
+      <Filter>Fichiers d%27en-tête\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Resources\Shader.hpp">
+      <Filter>Fichiers d%27en-tête\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Application\Application.hpp">
+      <Filter>Fichiers d%27en-tête\App</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Core\Log.hpp">
+      <Filter>Fichiers d%27en-tête\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Core\Assertion.hpp">
+      <Filter>Fichiers d%27en-tête\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Physics\Transform.hpp">
+      <Filter>Fichiers d%27en-tête\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Resources\Resource.hpp">
+      <Filter>Fichiers d%27en-tête\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\LowRenderer\Camera.hpp">
+      <Filter>Fichiers d%27en-tête\LowRenderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\LowRenderer\Light.hpp">
+      <Filter>Fichiers d%27en-tête\LowRenderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\LowRenderer\Model.hpp">
+      <Filter>Fichiers d%27en-tête\LowRenderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Resources\Mesh.hpp">
+      <Filter>Fichiers d%27en-tête\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Core\Graph.hpp">
+      <Filter>Fichiers d%27en-tête\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\imgui\imgui_impl_opengl3.h">
+      <Filter>Fichiers d%27en-tête\third_party</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\imgui\imgui_internal.h">
+      <Filter>Fichiers d%27en-tête\third_party</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\imgui\imstb_textedit.h">
+      <Filter>Fichiers d%27en-tête\third_party</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\imgui\imconfig.h">
+      <Filter>Fichiers d%27en-tête\third_party</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\imgui\imgui.h">
+      <Filter>Fichiers d%27en-tête\third_party</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\imgui\imgui_impl_glfw.h">
+      <Filter>Fichiers d%27en-tête\third_party</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\imgui\imstb_truetype.h">
+      <Filter>Fichiers d%27en-tête\third_party</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\imgui\imstb_rectpack.h">
+      <Filter>Fichiers d%27en-tête\third_party</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Bin\scenes\landing_vehicle.scn">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="Bin\shaders\shader.frag">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="Bin\shaders\shader.vert">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="Bin\scenes\stormtrooper.scn">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="Bin\scenes\space.scn">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Bin\scenes\scene_list.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
