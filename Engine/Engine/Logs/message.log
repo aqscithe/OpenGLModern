@@ -3325,3 +3325,564 @@ INFO LOG: Scenes Loaded: 3
 INFO LOG: landing_vehicle.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
 INFO LOG: stormtrooper.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
 INFO LOG: space.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+==========================================================================
+==========================================================================
+MESSAGE LOGS...
+2021-Jun-20 6:15:21
+
+DEBUG LOG: screen width: 1920 | screen height: 1080
+INFO LOG: GLAD successfully initialized
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/ahsoka.mtl
+DEBUG LOG: Texture ID: 1 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 2 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 3 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 4 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 5 | File: high_AhsokaTano_body.png | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 6 | File: high_AhsokaTano_Face.png | width: 1024 | height: 1024
+DEBUG LOG: Total mesh vertices: 26652
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/stormtrooper.mtl
+DEBUG LOG: Texture ID: 7 | File: t_imperial_stormtrooper_male_01_upperbody_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 8 | File: t_imperial_stormtrooper_male_01_lowerbody_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 9 | File: t_imperial_stormtrooper_male_01_helmet_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Total mesh vertices: 104439
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/deathstar.mtl
+DEBUG LOG: Texture ID: 10 | File: t_deathstargreeble_02_white_blank.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 11 | File: t_deathstargreeble_02bc_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 12 | File: t_deathstargreeble_02_black_blank.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 13 | File: t_deathstargreeble_02bc_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 14 | File: t_deathstargreeble_02c_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 15 | File: t_deathstargreeble_02_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 16 | File: t_deathstargreeble_02_light_emission.png | width: 2 | height: 2
+DEBUG LOG: Texture ID: 17 | File: t_deathstargreeble_02_light_emission.tga | width: 2 | height: 2
+DEBUG LOG: Total mesh vertices: 105951
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Scenes Loaded: 3
+INFO LOG: landing_vehicle.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+INFO LOG: stormtrooper.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+INFO LOG: space.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+==========================================================================
+==========================================================================
+MESSAGE LOGS...
+2021-Jun-21 8:48:36
+
+DEBUG LOG: screen width: 1920 | screen height: 1080
+INFO LOG: GLAD successfully initialized
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/land_vehicle.mtl
+DEBUG LOG: Texture ID: 1 | File: w_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 2 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 3 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 4 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 5 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 6 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 7 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 8 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 9 | File: b_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Total mesh vertices: 58269
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/ahsoka.mtl
+DEBUG LOG: Texture ID: 10 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 11 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 12 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 13 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 14 | File: high_AhsokaTano_body.png | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 15 | File: high_AhsokaTano_Face.png | width: 1024 | height: 1024
+DEBUG LOG: Total mesh vertices: 26652
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/stormtrooper.mtl
+DEBUG LOG: Texture ID: 16 | File: t_imperial_stormtrooper_male_01_upperbody_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 17 | File: t_imperial_stormtrooper_male_01_lowerbody_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 18 | File: t_imperial_stormtrooper_male_01_helmet_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Total mesh vertices: 104439
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/deathstar.mtl
+DEBUG LOG: Texture ID: 19 | File: t_deathstargreeble_02_white_blank.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 20 | File: t_deathstargreeble_02bc_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 21 | File: t_deathstargreeble_02_black_blank.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 22 | File: t_deathstargreeble_02bc_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 23 | File: t_deathstargreeble_02c_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 24 | File: t_deathstargreeble_02_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 25 | File: t_deathstargreeble_02_light_emission.png | width: 2 | height: 2
+DEBUG LOG: Texture ID: 26 | File: t_deathstargreeble_02_light_emission.tga | width: 2 | height: 2
+DEBUG LOG: Total mesh vertices: 105951
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Scenes Loaded: 3
+INFO LOG: landing_vehicle.scn | Models: 2 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+INFO LOG: stormtrooper.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+INFO LOG: space.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+==========================================================================
+==========================================================================
+MESSAGE LOGS...
+2021-Jun-21 8:49:29
+
+DEBUG LOG: screen width: 1920 | screen height: 1080
+INFO LOG: GLAD successfully initialized
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/land_vehicle.mtl
+DEBUG LOG: Texture ID: 1 | File: w_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 2 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 3 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 4 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 5 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 6 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 7 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 8 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 9 | File: b_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Total mesh vertices: 58269
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/ahsoka.mtl
+DEBUG LOG: Texture ID: 10 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 11 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 12 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 13 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 14 | File: high_AhsokaTano_body.png | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 15 | File: high_AhsokaTano_Face.png | width: 1024 | height: 1024
+DEBUG LOG: Total mesh vertices: 26652
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/stormtrooper.mtl
+DEBUG LOG: Texture ID: 16 | File: t_imperial_stormtrooper_male_01_upperbody_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 17 | File: t_imperial_stormtrooper_male_01_lowerbody_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 18 | File: t_imperial_stormtrooper_male_01_helmet_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Total mesh vertices: 104439
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/deathstar.mtl
+DEBUG LOG: Texture ID: 19 | File: t_deathstargreeble_02_white_blank.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 20 | File: t_deathstargreeble_02bc_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 21 | File: t_deathstargreeble_02_black_blank.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 22 | File: t_deathstargreeble_02bc_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 23 | File: t_deathstargreeble_02c_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 24 | File: t_deathstargreeble_02_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 25 | File: t_deathstargreeble_02_light_emission.png | width: 2 | height: 2
+DEBUG LOG: Texture ID: 26 | File: t_deathstargreeble_02_light_emission.tga | width: 2 | height: 2
+DEBUG LOG: Total mesh vertices: 105951
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Scenes Loaded: 3
+INFO LOG: landing_vehicle.scn | Models: 2 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+INFO LOG: stormtrooper.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+INFO LOG: space.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+==========================================================================
+==========================================================================
+MESSAGE LOGS...
+2021-Jun-22 16:16:55
+
+DEBUG LOG: screen width: 1920 | screen height: 1080
+INFO LOG: GLAD successfully initialized
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/land_vehicle.mtl
+DEBUG LOG: Texture ID: 1 | File: w_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 2 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 3 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 4 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 5 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 6 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 7 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 8 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 9 | File: b_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Total mesh vertices: 58269
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/ahsoka.mtl
+DEBUG LOG: Texture ID: 10 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 11 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 12 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 13 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 14 | File: high_AhsokaTano_body.png | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 15 | File: high_AhsokaTano_Face.png | width: 1024 | height: 1024
+DEBUG LOG: Total mesh vertices: 26652
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/stormtrooper.mtl
+DEBUG LOG: Texture ID: 16 | File: t_imperial_stormtrooper_male_01_upperbody_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 17 | File: t_imperial_stormtrooper_male_01_lowerbody_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 18 | File: t_imperial_stormtrooper_male_01_helmet_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Total mesh vertices: 104439
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/deathstar.mtl
+DEBUG LOG: Texture ID: 19 | File: t_deathstargreeble_02_white_blank.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 20 | File: t_deathstargreeble_02bc_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 21 | File: t_deathstargreeble_02_black_blank.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 22 | File: t_deathstargreeble_02bc_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 23 | File: t_deathstargreeble_02c_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 24 | File: t_deathstargreeble_02_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 25 | File: t_deathstargreeble_02_light_emission.png | width: 2 | height: 2
+DEBUG LOG: Texture ID: 26 | File: t_deathstargreeble_02_light_emission.tga | width: 2 | height: 2
+DEBUG LOG: Total mesh vertices: 105951
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Scenes Loaded: 3
+INFO LOG: landing_vehicle.scn | Models: 2 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+INFO LOG: stormtrooper.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+INFO LOG: space.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+==========================================================================
+==========================================================================
+MESSAGE LOGS...
+2021-Jul-03 13:20:28
+
+DEBUG LOG: screen width: 1920 | screen height: 1080
+INFO LOG: GLAD successfully initialized
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/land_vehicle.mtl
+DEBUG LOG: Texture ID: 1 | File: w_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 2 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 3 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 4 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 5 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 6 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 7 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 8 | File: a_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 9 | File: b_d.tga | width: 1024 | height: 1024
+DEBUG LOG: Total mesh vertices: 58269
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/ahsoka.mtl
+DEBUG LOG: Texture ID: 10 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 11 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 12 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 13 | File: high_AhsokaTano_w.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 14 | File: high_AhsokaTano_body.png | width: 1024 | height: 1024
+DEBUG LOG: Texture ID: 15 | File: high_AhsokaTano_Face.png | width: 1024 | height: 1024
+DEBUG LOG: Total mesh vertices: 26652
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/stormtrooper.mtl
+DEBUG LOG: Texture ID: 16 | File: t_imperial_stormtrooper_male_01_upperbody_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 17 | File: t_imperial_stormtrooper_male_01_lowerbody_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 18 | File: t_imperial_stormtrooper_male_01_helmet_cs.TGA | width: 2048 | height: 2048
+DEBUG LOG: Total mesh vertices: 104439
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Added scene
+DEBUG LOG: Vertex shader: Bin/shaders/shader.vert
+DEBUG LOG: Fragment shader: Bin/shaders/shader.frag
+INFO LOG: Added shader
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+INFO LOG: Added mesh
+INFO LOG: Added texture
+DEBUG LOG: Materials file: Assets/mtls/deathstar.mtl
+DEBUG LOG: Texture ID: 19 | File: t_deathstargreeble_02_white_blank.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 20 | File: t_deathstargreeble_02bc_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 21 | File: t_deathstargreeble_02_black_blank.png | width: 512 | height: 512
+DEBUG LOG: Texture ID: 22 | File: t_deathstargreeble_02bc_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 23 | File: t_deathstargreeble_02c_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 24 | File: t_deathstargreeble_02_c.png | width: 2048 | height: 2048
+DEBUG LOG: Texture ID: 25 | File: t_deathstargreeble_02_light_emission.png | width: 2 | height: 2
+DEBUG LOG: Texture ID: 26 | File: t_deathstargreeble_02_light_emission.tga | width: 2 | height: 2
+DEBUG LOG: Total mesh vertices: 105951
+DEBUG LOG: Aspect Ratio: 1.777778
+DEBUG LOG: Mouse sensitivity: 0.002000
+DEBUG LOG: Mouse speed: 1.000000
+INFO LOG: Scenes Loaded: 3
+INFO LOG: landing_vehicle.scn | Models: 2 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+INFO LOG: stormtrooper.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
+INFO LOG: space.scn | Models: 1 | Point Lights: 3 | Directional Lights: 1 | Spot Lights: 2
