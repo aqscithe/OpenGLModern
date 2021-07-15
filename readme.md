@@ -9,6 +9,19 @@
 ### Description
 A engine making use of Open Graphics Library in order to render fully 3D models and scenes based on data gathered from .obj file, it's corresponding .mtl file as well as several other parameters such as lighting and transform taken from .scn files.
 
+## INSTALLATION
+
+To simply play the game:
+- Download the latest build: https://game-project-assets.s3.amazonaws.com/OpenGLModern/build.zip
+- Extract the zip
+- Launch from "Engine.exe"
+
+To open in Visual Studio:
+- Download ZIP of code & extract.
+- Download assets here: https://game-project-assets.s3.amazonaws.com/OpenGLModern/Resources.zip
+- Extract assets into the "/Engine/Engine" directory of project
+- Open "/Engine/Engine.sln" file with Visual Studio
+
 ### Features
 
 - Supports 3D models defined by an OBJ file with 3-vertex(*triangle*) faces
